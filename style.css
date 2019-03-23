@@ -22,8 +22,8 @@ header {
 }
 
 nav {
-	padding: 20px;
-	margin-bottom: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
   color: #777;
   background: #ebebeb;
 }
@@ -45,11 +45,11 @@ section {
 }
 
 article {
-	width: 475px;
-	height: 220px;
-	background: #777;
-	margin: 10px 10px 10px 10px;
-	padding-top: 10px;
+   width: 475px;
+   height: 220px;
+   background: #777;
+   margin: 10px 10px 10px 10px;
+   padding-top: 10px;
   color: #ebebeb;
 }
 
